@@ -1,0 +1,19 @@
+{
+  "name": "lnmiit-digi-doc",
+  "version": "1.0.0",
+  "description": "LNMIIT Digi-Doc: Institutional Document Routing and Approval System",
+  "scripts": {
+    "dev": "npm --prefix frontend run dev",
+    "start": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build",
+    "preview": "npm --prefix frontend run preview"
+  },
+  "keywords": [
+    "lnmiit",
+    "digi-doc",
+    "document-routing",
+    "approval-workflow"
+  ],
+  "author": "LNMIIT Digi-Doc Team",
+  "license": "ISC"
+}
